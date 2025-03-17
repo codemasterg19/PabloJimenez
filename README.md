@@ -128,9 +128,9 @@ Me especializo en la **creación de soluciones eficientes, seguras y escalables*
 ---
 
 ##  **Contáctame**  
-📧 **Correo:** pablostb1@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/pablo-jimenez-aaa42b138/
-📂 **GitHub:** https://github.com/codemasterg19
+**Correo:** pablostb1@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/pablo-jimenez-aaa42b138/
+**GitHub:** https://github.com/codemasterg19
 ---
 
-🎯 **Estoy en búsqueda de nuevas oportunidades y colaboraciones en desarrollo de software, inteligencia artificial y ciberseguridad. ¡Hablemos! 🚀**  
+**Estoy en búsqueda de nuevas oportunidades y colaboraciones en desarrollo de software, inteligencia artificial y ciberseguridad. ¡Hablemos! 🚀**  
