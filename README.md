@@ -123,7 +123,7 @@ Me especializo en la **creación de soluciones eficientes, seguras y escalables*
 🛠️ Docker, Git, GitHub
 
 📌 **Metodologías Ágiles:**  
-🏃 Scrum, XP  
+🏃 Scrum, XP, Kanban
 
 ---
 
