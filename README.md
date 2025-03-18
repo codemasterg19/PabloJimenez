@@ -18,7 +18,7 @@ Me especializo en la **creación de soluciones eficientes, seguras y escalables*
 
 ## 🌎 **Proyectos Destacados**  
  **1️⃣ Plataforma de Registro de Torneos Gaming (Spring Boot + MVC + MySQL)**  
-🔗 [Repositorio](https://github.com/codemasterg19/Taller2QAdJango.git)  
+🔗 [Repositorio]([https://github.com/codemasterg19/Taller2QAdJango.git](https://github.com/codemasterg19/Nucleo1Spring.git))  
 📝 *Aplicación web desarrollada con Spring Boot bajo el patrón MVC para la gestión de torneos de videojuegos. Incluye autenticación, CRUD completo y manejo de bases de datos.*  
 
 **📌 Características:**  
