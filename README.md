@@ -1,5 +1,5 @@
 # 👋 ¡Hola, soy Pablo Jiménez!  
-## 🚀 Desarrollador de Software | Ciberseguridad | Análisis de Datos  
+## Desarrollador de Software | Apps Web y Móviles | Angular, React Native, Firebase, Python | Enfocado en innovación con IA
 
 ### 🌟 Sobre Mí  
 Soy un **desarrollador de software** con experiencia en **desarrollo web y móvil, ciberseguridad, análisis de datos e inteligencia artificial**. 
